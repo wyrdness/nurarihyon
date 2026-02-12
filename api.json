@@ -1,0 +1,320 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/nurarihyon",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "nurarihyon",
+    "name": "Nurarihyon",
+    "aliases": [
+      {
+        "name": "ぬらりひょん",
+        "language": "Japanese",
+        "meaning": "Slippery gourd"
+      },
+      {
+        "name": "Supreme Commander of Yokai",
+        "language": "English",
+        "meaning": "Modern interpretation as yokai leader"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Yokai",
+    "tags": [
+      "yokai",
+      "japanese-folklore",
+      "spirit",
+      "humanoid",
+      "shapeshifter",
+      "commander",
+      "home-invader",
+      "supernatural-authority"
+    ],
+    "status": "traditional",
+    "description": {
+      "summary": "Mysterious Japanese yokai depicted as an old man with an elongated bald head who slips into homes uninvited and acts as if he owns the place. Modern interpretations portray him as the supreme commander of all yokai.",
+      "full": "Nurarihyon is one of Japan's most enigmatic yokai, whose legend has evolved significantly over time. Originally described as a vague sea creature in early folklore, Nurarihyon transformed into a mysterious home invader—an impeccably dressed old man with a distinctive elongated bald head who enters homes without permission, drinks tea, and behaves as though he owns the place. Homeowners find themselves unable to question his presence due to his supernatural charm and commanding authority. In modern popular culture, particularly through GeGeGe no Kitaro and other manga/anime, Nurarihyon has been elevated to the status of supreme commander of all yokai, a powerful leader who commands respect and obedience from other supernatural beings. This evolution from obscure folklore figure to iconic yokai leader demonstrates the dynamic nature of Japanese supernatural traditions."
+    },
+    "etymology": {
+      "origin": "The name 'nurarihyon' likely derives from 'nurari' (slippery) and 'hyōtan' (gourd), possibly referring to the yokai's elusive nature or head shape.",
+      "meaning": "Slippery gourd",
+      "first_use": "Edo period folklore"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Yokai",
+      "subtype": "Humanoid spirit",
+      "variant": "Japanese"
+    },
+    "related_phenomena": [
+      {
+        "id": "oni",
+        "name": "Oni",
+        "relationship": "commands",
+        "description": "Ogre-like yokai sometimes depicted under Nurarihyon's command"
+      },
+      {
+        "id": "kappa",
+        "name": "Kappa",
+        "relationship": "commands",
+        "description": "Water yokai in modern depictions as subordinates"
+      },
+      {
+        "id": "tengu",
+        "name": "Tengu",
+        "relationship": "commands",
+        "description": "Mountain spirits in yokai hierarchy"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 1.5,
+        "max": 1.7,
+        "unit": "meters",
+        "confidence": "medium"
+      },
+      "coloration": [
+        "pale skin",
+        "white or gray traditional clothing"
+      ],
+      "features": [
+        {
+          "feature": "Head shape",
+          "description": "Distinctive elongated, bald head resembling a gourd",
+          "frequency": "always"
+        },
+        {
+          "feature": "Appearance",
+          "description": "Old man, well-dressed in traditional Japanese clothing",
+          "frequency": "always"
+        },
+        {
+          "feature": "Demeanor",
+          "description": "Calm, dignified, refined manners",
+          "frequency": "always"
+        },
+        {
+          "feature": "Clothing",
+          "description": "Impeccable traditional attire, often expensive-looking",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Elderly humanoid male with distinctive elongated bald cranium. Appears as refined gentleman despite being unwelcome intruder."
+    },
+    "abilities": [
+      {
+        "ability": "Supernatural charm",
+        "description": "Possesses mysterious presence that makes people accept him without question",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Command authority",
+        "description": "Commands authority over other yokai (modern interpretation)",
+        "frequency": "common",
+        "evidence_level": "modern_folklore"
+      },
+      {
+        "ability": "Home invasion",
+        "description": "Ability to slip into homes unnoticed and act as owner",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Elusiveness",
+        "description": "Difficult to confront or remove once present",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "any time",
+      "disposition": "neutral",
+      "social_structure": "leader (modern interpretation)",
+      "habitat_preference": [
+        "human homes",
+        "inhabited areas",
+        "originally associated with sea"
+      ],
+      "diet": "Drinks tea, consumes household provisions",
+      "patterns": [
+        "Enters homes without permission",
+        "Acts as if he owns the place",
+        "Drinks tea calmly",
+        "Homeowners cannot question his presence",
+        "Commands other yokai in modern interpretations"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Traditional Japanese folklore, particularly associated with Edo period urban legends. Now widespread in Japanese popular culture.",
+      "continents": ["Asia"],
+      "countries": ["Japan"],
+      "regions": [
+        "Throughout Japan in folklore",
+        "Originally associated with coastal/sea areas"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Edo period",
+        "circa": true,
+        "source": "Japanese folklore compilations"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Edo period",
+          "description": "Original folklore as mysterious home invader"
+        },
+        {
+          "period": "1960s-present",
+          "description": "Modern popularization as yokai commander through manga and anime"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Japanese yokai folklore with origins possibly in coastal legends. Early depictions described a vague sea creature.",
+      "earliest_accounts": "Edo period folklore compilations",
+      "folklore_connections": "Evolution from obscure sea creature to sophisticated home invader to commander of all yokai demonstrates cultural adaptation of folklore."
+    },
+    "timeline": [
+      {
+        "date": "Edo period",
+        "event": "Early folklore descriptions",
+        "significance": "Original depictions as vague sea creature or mysterious visitor",
+        "source": "Traditional folklore collections"
+      },
+      {
+        "date": "1960s",
+        "event": "GeGeGe no Kitaro depiction",
+        "significance": "Shigeru Mizuki's manga popularized Nurarihyon as supreme commander of yokai",
+        "source": "GeGeGe no Kitaro manga series"
+      },
+      {
+        "date": "2000s",
+        "event": "Nurarihyon no Mago",
+        "significance": "Manga and anime series featuring Nurarihyon as protagonist's grandfather, further cementing commander role",
+        "source": "Nura: Rise of the Yokai Clan"
+      }
+    ],
+    "modern_era": "Nurarihyon has evolved from obscure folklore figure to one of the most recognizable yokai in Japanese popular culture, appearing in countless manga, anime, video games, and other media as the archetypal yokai leader."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Traditional home invader stories",
+        "Modern yokai commander legends",
+        "Sea creature origins"
+      ],
+      "stories": [
+        "Elderly stranger appearing at homes during busy times",
+        "Mysterious visitor who cannot be refused",
+        "Commander coordinating yokai activities"
+      ],
+      "beliefs": "Represents the concept of uninvited authority and social dynamics. Modern interpretation explores hierarchy and leadership among supernatural beings."
+    },
+    "indigenous": {
+      "cultures": [
+        "Japanese"
+      ],
+      "significance": "Part of rich Japanese yokai tradition, demonstrates evolution of folklore through modern media.",
+      "sensitivity_note": "Nurarihyon is part of living Japanese cultural tradition. Respectful treatment of yokai folklore is important to Japanese cultural heritage.",
+      "respect_guidelines": "Approach Japanese yokai traditions with cultural sensitivity. Recognize distinction between traditional folklore and modern popular culture interpretations."
+    },
+    "popular_culture": {
+      "literature": [
+        "GeGeGe no Kitaro (manga, 1960s-present)",
+        "Nurarihyon no Mago / Nura: Rise of the Yokai Clan (manga, 2008-2012)",
+        "Various yokai encyclopedias and folklore collections"
+      ],
+      "film_tv": [
+        "GeGeGe no Kitaro (anime, multiple series)",
+        "Nurarihyon no Mago (anime, 2010-2011)",
+        "Yo-kai Watch (video game and anime)",
+        "Numerous Japanese supernatural TV dramas"
+      ],
+      "games": [
+        "Yo-kai Watch series",
+        "Nioh video game series",
+        "Various Japanese RPGs featuring yokai"
+      ],
+      "other": [
+        "Tourist attractions in Japan featuring yokai",
+        "Yokai-themed merchandise",
+        "Cultural festivals"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Shigeru Mizuki",
+        "affiliation": "Manga artist and yokai researcher",
+        "contribution": "Popularized modern interpretation of Nurarihyon as yokai commander",
+        "period": "1960s-2015"
+      },
+      {
+        "name": "Kunio Yanagita",
+        "affiliation": "Japanese folklorist",
+        "contribution": "Documented traditional yokai folklore",
+        "period": "Early 20th century"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "International Research Center for Japanese Studies",
+        "focus": "Japanese folklore and cultural studies"
+      }
+    ],
+    "ongoing_studies": "Academic study of yokai folklore evolution and cultural significance in modern Japanese society."
+  },
+
+  "sources": [
+    {
+      "id": "mizuki-yokai",
+      "type": "book",
+      "title": "Mizuki Shigeru's Yokai Encyclopedia",
+      "authors": ["Shigeru Mizuki"],
+      "publication": "Various Japanese publishers",
+      "date": "Multiple editions"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yokai: Mysterious Creatures of Japanese Folklore",
+      "authors": ["Michael Dylan Foster"],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    }
+  ]
+}
