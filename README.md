@@ -1,289 +1,175 @@
 # Nurarihyon
 
-> *"The supreme commander of yokai walks uninvited into your home."*
+> An Edo-period Japanese yōkai depicted as an old man with an elongated, gourd-shaped head, originally an obscure figure in yōkai picture scrolls, later popularised in twentieth-century media as a refined intruder and supreme commander of yōkai.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `nurarihyon` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Yokai / Humanoid spirit |
-| **First Recorded** | Edo period |
-| **Primary Region** | Japan |
-| **Status** | Traditional folklore |
+| **Subcategory** | Yōkai (Japanese supernatural entity) |
+| **First recorded** | c. 1700 |
+| **Primary range** | A pan-Japanese folklore figure |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Nurarihyon is one of Japan's most enigmatic yokai, whose legend has evolved significantly over time. Originally described as a vague sea creature in early folklore, Nurarihyon transformed into a mysterious home invader—an impeccably dressed old man with a distinctive elongated bald head who enters homes without permission, drinks tea, and behaves as though he owns the place.
-
-Homeowners find themselves unable to question his presence due to his supernatural charm and commanding authority. In modern popular culture, particularly through GeGeGe no Kitaro and other manga/anime, Nurarihyon has been elevated to the status of supreme commander of all yokai, a powerful leader who commands respect and obedience from other supernatural beings.
-
-This evolution from obscure folklore figure to iconic yokai leader demonstrates the dynamic nature of Japanese supernatural traditions.
+Nurarihyon (滑瓢, ぬらりひょん) is a Japanese yōkai whose first surviving images come from Edo-period yōkai picture scrolls (yōkai emaki), notably Sawaki Suushi's Hyakkai Zukan (1737) and Toriyama Sekien's Gazu Hyakki Yagyō. Early images show a wizened, bald, gourd-headed old man in fine kimono or Buddhist robes, often associated with a kago (palanquin), but no narrative is attached. Its now-famous behaviour — slipping into a busy household at dusk, seating himself, drinking the family's tea and being accepted as the master of the house through sheer composure — derives from a 1929 caption written by folklorist Morihiko Fujisawa under Sekien's image, identifying him as 'the chief of the yōkai who comes to visit'. Folklorists Kenji Murakami and Katsumi Tada have noted that this is a modern interpretive reading rather than a documented folktale. In Okayama Prefecture, nurarihyon appears as a different creature: a spherical floating yōkai in the Seto Inland Sea, akin to the umibōzu, that bobs out of fishermen's reach. Twentieth-century manga (notably Mizuki Shigeru's GeGeGe no Kitarō from the 1960s onward) elevated nurarihyon to 'supreme commander of all yōkai' (yōkai no sōtaishō), a status without basis in the Edo sources but now central to its popular identity, reinforced by works such as Hiroshi Shiibashi's Nura: Rise of the Yokai Clan and the antagonist of the same name in Demon Slayer (Kimetsu no Yaiba).
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Nurarihyon | Japanese | From 'nurari' (to slip away) + 'hyon' (onomatopoeia for floating upward); written 滑瓢 ('slippery gourd') |
+| Nurihyon | Japanese / Edo-period scrolls |  |
+| Sea-monster nurarihyon | Japanese / Okayama Prefecture | Globe-shaped umibōzu-like creature in the Seto Inland Sea |
 
-### Primary Name
-- **Nurarihyon** (ぬらりひょん) — Likely from "nurari" (slippery) and "hyōtan" (gourd), referring to elusive nature or head shape.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Supreme Commander of Yokai | Modern English | Leader of all yokai (modern interpretation) |
-| Slippery Gourd | English translation | Literal meaning of name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Yokai
-├── Subtype: Humanoid spirit
-└── Variant: Japanese
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Oni](/oni) | Commands | Ogre-like yokai under his authority (modern) |
-| [Kappa](/kappa) | Commands | Water yokai as subordinates (modern) |
-| [Tengu](/tengu) | Commands | Mountain spirits in yokai hierarchy (modern) |
+- **Origin**: Japanese; from nurari (滑り, 'slipping, slithering') + hyon (瓢, the character for gourd, also an onomatopoeia of something popping or floating up)
+- **Meaning**: Approximately 'the slippery gourd' or 'the slipping-away one', alluding both to the elongated gourd-shaped head and to the creature's elusive nature
+- **First use**: Documented in Edo-period yōkai picture scrolls; the Bakemono no e attributed to Kanō Motonobu's lineage (c. 1700) and Sawaki Suushi's Hyakkai Zukan (1737)
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Umibōzu](../umibozu/) — _related_: Sea-monk yōkai; in Okayama, nurarihyon is described as an umibōzu-like floating sphere
+- [Hyakki Yagyō (Night Parade of a Hundred Demons)](../hyakki-yagyo/) — _related_: Procession in which nurarihyon appears in Edo emaki
+- [Nurikabe](../nurikabe/) — _similar_: Another yōkai first popularised through Edo scrolls and Mizuki Shigeru's manga
+- [Oni](../oni/) — _related_: Often appears alongside nurarihyon in modern 'commander of yōkai' narratives
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 1.5 - 1.7 meters (5 - 5.5 feet) | Medium |
-| **Appearance** | Elderly man, well-dressed, refined | High |
-| **Coloration** | Pale skin, white/gray traditional clothing | Medium |
-| **Build** | Old man, dignified bearing | High |
+- **Coloration**: pale skin, elderly complexion
+- **Morphology**: Humanoid with disproportionately large, elongated, gourd-shaped cranium. In the Okayama variant, an entirely different morphology: a globe-shaped floating creature in the sea.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Head shape | Distinctive elongated bald head like a gourd | Always |
-| Clothing | Impeccable traditional Japanese attire | Always |
-| Demeanor | Calm, dignified, refined manners | Always |
-| Expression | Serene, unbothered by intrusion | Common |
+|---|---|---|
+| Elongated gourd-shaped head | Bald, swollen, often described as cucurbit- or eggplant-shaped; the most distinctive trait | always |
+| Aged appearance | Wizened, wrinkled face; sometimes likened to a cross between an old man and a catfish | always |
+| Fine clothing | Wears elegant kimono or Buddhist abbot's kasaya, suggesting wealth or rank | common |
+| Riding a kago | Edo-period scrolls depict nurarihyon stepping out of, or hanging from, a black palanquin | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Supernatural charm | Makes people unable to question his presence | Folklore |
-| Command authority | Commands other yokai (modern interpretation) | Modern folklore |
-| Home invasion | Slips into homes uninvited | Folklore |
-| Elusiveness | Difficult to confront or remove | Folklore |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Composure-based intrusion | Modern characterisation: slips into a home unnoticed and is accepted as its master through unflappable bearing | common | folklore |
+| Command over yōkai | Twentieth-century media depict nurarihyon as the 'supreme commander' or general of the yōkai (yōkai no sōtaishō) | always | speculation |
+| Evasion / slipperiness | Etymologically 'the slippery one'; in Okayama tradition the floating sphere sinks just as fishermen reach it | common | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Any time (traditional stories often during busy household times)
-- **Disposition**: Neutral (not malicious, but unwelcome)
-- **Social Structure**: Supreme leader (modern), solitary intruder (traditional)
-- **Habitat Preference**: Human homes, originally associated with sea
-- **Diet**: Drinks tea, consumes household provisions
-
-#### Typical Behavior:
-- Enters homes without asking permission
-- Acts as if he owns the place
-- Calmly drinks tea and relaxes
-- Homeowners cannot bring themselves to question him
-- Commands respect and obedience from other yokai (modern)
-- Never asks permission, simply takes authority
+- **Activity**: crepuscular
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: Edo-period townhouses (machiya) at dusk, Seto Inland Sea (Okayama variant), Hyakki Yagyō processions
+- **Diet**: Tea and household refreshments (in modern characterisation)
 
 ---
+## Distribution
 
-## Cultural Evolution
+A pan-Japanese folklore figure; specific regional traditions in Akita Prefecture (as a member of the night parade) and Okayama Prefecture (sea-creature variant). Modern media-driven popularity is national.
 
-### Traditional Folklore (Edo Period)
+### Hotspots
 
-**Original Form**: Vague sea creature or mysterious coastal entity
-- Obscure yokai with unclear characteristics
-- Associated with slippery, elusive nature
-- Name "nurarihyon" (slippery gourd) suggests original form
-
-**Home Invader Phase**: 
-- Evolved into old man with elongated head
-- Enters homes during busy times when family is distracted
-- Drinks tea and acts as master of house
-- Supernatural presence prevents homeowners from confronting him
-- Leaves as mysteriously as he arrived
-
-### Modern Interpretation (1960s-Present)
-
-**Supreme Commander of Yokai**:
-- Popularized by Shigeru Mizuki's GeGeGe no Kitaro
-- Depicted as leader coordinating all yokai activities
-- Commands respect and obedience from supernatural beings
-- Strategic mastermind in yokai conflicts
-- Often portrayed as dignified, calculating leader
-
-**Cultural Impact**:
-- One of most recognizable yokai in Japanese media
-- Featured in countless anime, manga, games
-- Symbol of quiet authority and command
-- Represents evolution of folklore through modern media
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Seto Inland Sea (Okayama variant) | Okayama Prefecture, Japan |  | Edo period and folk tradition |
+| Sae no Kamizaka | Akita Prefecture, Japan |  | Early 19th century |
 
 ---
-
 ## Historical Timeline
 
-### Origins
+| Date | Event | Significance |
+|---|---|---|
+| c. 1700 | Image of nurarihyon appears in the Bakemono no e attributed to the Kanō Motonobu lineage | Earliest known visual record |
+| 1737 | Sawaki Suushi includes nurarihyon in Hyakkai Zukan | Standardises the gourd-headed iconography |
+| 1776 | Toriyama Sekien depicts nurarihyon in Gazu Hyakki Yagyō | Popularises the figure among Edo readers |
+| 1814 | Sugae Masumi records nurarihyon as a participant in a hyakki yagyō at Sae no Kamizaka, Akita | Earliest known textual placement in regional folklore |
+| 1929 | Morihiko Fujisawa publishes captions identifying nurarihyon as 'the chief monster who comes to visit' | Origin of the 'master of the house' interpretation |
+| 1968 | Mizuki Shigeru begins serialising GeGeGe no Kitarō, reusing nurarihyon as a recurring character | Foundation of the modern pop-culture image |
+| 2008 | Hiroshi Shiibashi launches Nura: Rise of the Yokai Clan in Weekly Shōnen Jump, with nurarihyon as central protagonist's lineage | Cements the 'commander of yōkai' archetype globally |
 
-Japanese yokai folklore with possible origins in coastal/sea legends. Early depictions were vague, later crystallizing into the distinctive home invader character.
+## Evidence
 
-### Key Evolution
+### Documentary
 
-| Period | Depiction | Significance |
-|--------|-----------|--------------|
-| Edo period | Vague sea creature / mysterious visitor | Original folklore origins |
-| 1960s | Supreme commander of yokai | Shigeru Mizuki's GeGeGe no Kitaro popularization |
-| 2008-2012 | Protagonist's grandfather | Nurarihyon no Mago manga series |
-| 2010-present | Widespread media presence | Anime, games, cultural icon status |
-
-### Modern Era
-
-Nurarihyon has evolved from obscure folklore figure to one of the most recognizable yokai in Japanese popular culture. The character appears in countless manga, anime, video games, and other media as the archetypal yokai leader, demonstrating the living, evolving nature of Japanese supernatural traditions.
-
----
-
-## Cultural Significance
-
-### Japanese Folklore
-
-> ⚠️ **Cultural Sensitivity Note**: Nurarihyon is part of living Japanese cultural tradition. Yokai folklore represents important cultural heritage and should be approached with respect.
-
-**Traditional Meaning**:
-- Represents uninvited authority and social dynamics
-- Commentary on household hierarchy and social relations
-- Mysterious forces that cannot be directly confronted
-
-**Modern Interpretation**:
-- Leadership and hierarchy among supernatural beings
-- Coordination and strategy in yokai society
-- Dignified authority that commands respect
-
-### Popular Culture
-
-**Manga/Anime**:
-- *GeGeGe no Kitaro* (1960s-present) — Popularized as yokai commander
-- *Nurarihyon no Mago / Nura: Rise of the Yokai Clan* (2008-2012) — Starring role as protagonist's grandfather
-- Numerous other yokai-themed series
-
-**Video Games**:
-- *Yo-kai Watch* series
-- *Nioh* series
-- Various Japanese RPGs
-
-**Other Media**:
-- Yokai-themed merchandise
-- Tourist attractions in Japan
-- Cultural festivals and exhibitions
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Hyakkai Zukan | 1737 | Illustrated handscroll by Sawaki Suushi depicting nurarihyon among other yōkai; one of the earliest dated surviving images. | verified |
+| Gazu Hyakki Yagyō | 1776 | Toriyama Sekien's printed compendium of yōkai including nurarihyon. | verified |
 
 ---
+## Theories & Explanations
 
-## Symbolism & Interpretation
+### Paranormal / Cryptozoological
 
-### Traditional Symbolism
-- **Uninvited authority**: Power that cannot be questioned
-- **Social dynamics**: Commentary on hierarchy and manners
-- **Elusiveness**: Things that slip through social cracks
-- **Hospitality paradox**: Unable to refuse even unwelcome guests
+**Yōkai with origins in floating sea creatures** _(Local Okayama folk tradition)_
 
-### Modern Symbolism
-- **Leadership**: Quiet authority and command
-- **Strategy**: Mastermind coordinating complex activities
-- **Tradition**: Connection to ancient yokai world
-- **Evolution**: How folklore adapts to modern sensibilities
+In the Okayama tradition, nurarihyon are physical sea creatures that, having gathered influence, migrate to land and become household-haunting yōkai; a transition motif also seen with umibōzu.
 
----
+### Scientific
 
-## How to Report an Encounter
+**Misidentified marine fauna (Okayama variant)** _(Modern Japanese folklorists, summarised in Wikipedia)_
 
-If you've encountered Nurarihyon or similar phenomena:
+Observed 'floating heads' in the Seto Inland Sea may correspond to large jellyfish (e.g. Nemopilema nomurai), Portuguese man o' war, or partly submerged squid.
 
-1. **GitHub Issue**: [Submit Report](../../issues/new?template=encounter_report.yml)
-2. **Required Information**:
-   - Date and time
-   - Location
-   - Detailed description of appearance
-   - Behavior observed
-   - Any unusual feelings or effects
+### Skeptical
 
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for submission requirements.
+**Modern invention through caption-folklore** _(Kenji Murakami, Katsumi Tada, Kunihiro Shimura)_
+
+The 'master of the house' character is a 20th-century literary invention by Morihiko Fujisawa (1929), retroactively applied to an originally narrativeless image.
+
+
+## Popular Culture
+
+**Literature**: Hyakkai Zukan — Sawaki Suushi (1737); Gazu Hyakki Yagyō — Toriyama Sekien (1776); Yōkai Daizukan — Mizuki Shigeru (multiple editions); Nura: Rise of the Yokai Clan — Hiroshi Shiibashi (2008–2012)
+
+**Film / TV**: GeGeGe no Kitarō (multiple anime series, 1968 onward; nurarihyon as recurring antagonist); Nura: Rise of the Yokai Clan anime (2010–2011); Demon Slayer: Kimetsu no Yaiba (2019–) — Muzan Kibutsuji's design referenced as nurarihyon-inspired in popular reception
+
+**Games**: Yo-kai Watch series — character Nurarihyon; Onmyoji (NetEase) — playable shikigami
 
 ---
+## Research
 
-## API Reference
+### Researchers
 
-Machine-readable data is available in [`api.json`](api.json).
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Toriyama Sekien | Edo-period artist and yōkai compiler | Standardised iconography in Gazu Hyakki Yagyō (1776) | 18th century |
+| Morihiko Fujisawa | Folklorist | Originated the 'chief of yōkai who comes to visit' interpretation in 1929 captions | early 20th century |
+| Mizuki Shigeru | Manga artist | Reintroduced nurarihyon to mass audiences as a major yōkai figure | 1960s–2015 |
+| Kenji Murakami | Japanese folklore scholar | Critical analysis distinguishing the historic image from modern reinterpretation | late 20th–21st century |
+| Katsumi Tada | Yōkai researcher and author | Source-critical work on Edo-period yōkai imagery | late 20th–21st century |
 
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const nurarihyon = await wyrd.getPhenomenon('nurarihyon');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/nurarihyon/main/api.json
-```
+Ongoing folkloric and literary scholarship on the formation of yōkai canon in Edo-period emaki and its 20th-century reinterpretation.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Key Sources
+## How to Report a Sighting
 
-- Foster, M.D. (2015). *The Book of Yokai: Mysterious Creatures of Japanese Folklore*. University of California Press.
-- Mizuki, S. *Yokai Encyclopedia* (multiple editions)
-- GeGeGe no Kitaro (manga and anime series)
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Encounter](../../issues/new?template=encounter_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
